@@ -10,4 +10,3 @@ public class DompetDigital extends Pembayaran {
         System.out.println("Pembayaran Rp" + jumlah + " melalui Dompet Digital berhasil!");
     }
 }
-
